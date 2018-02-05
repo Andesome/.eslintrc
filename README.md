@@ -31,3 +31,41 @@
 },
 ```
 
+
+
+
+## vscode 用户设置
+```
+{
+  "editor.fontSize": 18,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "workbench.colorTheme": "Brackets Light Pro",
+  "files.eol": "\r\n",  
+  "eslint.enable": true,  
+  "eslint.options": {
+    "configFile": "C:/workspace/.eslintrc.js"
+  },  
+  "fileheader.Author": "lll",
+  "fileheader.LastModifiedBy": "lll",
+  "workbench.iconTheme": "verdandi",
+  "editor.minimap.enabled": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+  ],
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules":true
+  },  
+}
+```
+
