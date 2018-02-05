@@ -69,3 +69,20 @@
 }
 ```
 
+
+## 附vscode插件
+1. 颜色主题
+* Atom One Light Theme 
+* One Dark Pro
+2. 图标主题
+* VScode Great Icons
+* vscode-icons
+3. 代码自动补全
+* Auto Close Tag
+* Auto Rename Tag
+* Path Autocomplete
+* Path Intellisense
+4. 查看import文件大小
+* Import Cost
+5. 浏览器兼容
+* Can I Use
